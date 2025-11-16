@@ -1,7 +1,7 @@
 [
 	{
 		"key": "sb",
-		"value": "e2wPaZbBQV3QswP8uEbS0kwg",
+		"value": "e2wPaZbBQV3QswP8uEbS0kwg", 
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
